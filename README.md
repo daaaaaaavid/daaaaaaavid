@@ -1,4 +1,14 @@
-### Hi there 👋
+
+## Hi there :smile:
+
+I am a junior student in NCHU:sunflower::sunflower:  
+major in CS  
+working hard on Style Transfer :star::boom:
+
+## Here are some projects I have done
+
+* "Breakout": [link](https://github.com/Rinbow98/Breakout_master_python)
+*  "Web Dreamer": [link](https://github.com/Edmond-Yang/web_project)
 
 <!--
 **daaaaaaavid/daaaaaaavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
