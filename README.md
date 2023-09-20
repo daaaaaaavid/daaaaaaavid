@@ -1,10 +1,9 @@
 
 ## Hi there :smile:
 
-I am a junior student in NCHU:sunflower::sunflower:  
+I am a senior student in NCHU:sunflower::sunflower:  
 major in CS  
-working hard on Style Transfer :star::boom:
-
+I am interesting in Computer Vision :star::boom:.
 ## Here are some projects I have done
 
 * "Breakout": [link](https://github.com/Rinbow98/Breakout_master_python)
