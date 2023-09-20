@@ -2,7 +2,7 @@
 ## Hi there :smile:
 
 I am a senior student in NCHU:sunflower::sunflower:  
-major in CS  :computer::computer:  
+major in CS  :computer::computer:   
 interesting in Computer Vision :star::boom:  
 ## Here are some projects I have done
 
