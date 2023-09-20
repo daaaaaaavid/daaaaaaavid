@@ -2,8 +2,8 @@
 ## Hi there :smile:
 
 I am a senior student in NCHU:sunflower::sunflower:  
-major in CS  
-I am interesting in Computer Vision :star::boom:.
+major in CS  :computer::computer:
+interesting in Computer Vision :star::boom:.
 ## Here are some projects I have done
 
 * "Breakout": [link](https://github.com/Rinbow98/Breakout_master_python)
