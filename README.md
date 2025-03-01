@@ -1,26 +1,17 @@
 
 ## Hi there :smile:
 
-I am a senior student in NCHU:sunflower::sunflower:  
+I am a first-year master's student in NTHU :star::boom: 
 major in CS  :computer::computer:   
-interesting in Computer Vision :star::boom:  
+
 ## Here are some projects I have done
-* "NCHU borrow court system": [link](https://github.com/daaaaaaavid/NCHU-borrow-court)  
-* "Breakout": [link](https://github.com/Rinbow98/Breakout_master_python)
+* "NCHU borrow court system": [link](https://github.com/daaaaaaavid/NCHU-borrow-court)
+* "Explaining Style Transfer": [link](https://github.com/ADockhorn/AIX-StyleTransfer)
 * "Web Dreamer": [link](https://github.com/Edmond-Yang/web_project)
 * "The AIOT Garden of Tomorrow": [link](https://github.com/Edmond-Yang/Aiot_Project)
 * "Database project": [link](https://github.com/daaaaaaavid/Database)
+
 <!--
-**daaaaaaavid/daaaaaaavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* "Breakout": [link](https://github.com/Rinbow98/Breakout_master_python)
+interesting in Computer Vision :star::boom:  
 -->
