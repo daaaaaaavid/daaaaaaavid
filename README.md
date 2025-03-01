@@ -1,7 +1,7 @@
 
 ## Hi there :smile:
 
-I am a first-year master's student in NTHU :star::boom: 
+I am a first-year master's student in NTHU :star::boom: <br>
 major in CS  :computer::computer:   
 
 ## Here are some projects I have done
