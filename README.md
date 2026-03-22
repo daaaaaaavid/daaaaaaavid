@@ -6,7 +6,7 @@ major in CS  :computer::computer:
 
 ## Here are some projects I have done
 * "NCHU borrow court system": [link](https://github.com/daaaaaaavid/NCHU-borrow-court)
-* "Explaining Style Transfer": [link](https://ieeexplore-ieee-org.nthulib-oc.nthu.edu.tw/document/11079403/interactive)
+* "Explaining Style Transfer": [link](https://ieeexplore.ieee.org/document/11079403/)
 * "Web Dreamer": [link](https://github.com/Edmond-Yang/web_project)
 * "The AIOT Garden of Tomorrow": [link](https://github.com/Edmond-Yang/Aiot_Project)
 * "Database project": [link](https://github.com/daaaaaaavid/Database)
